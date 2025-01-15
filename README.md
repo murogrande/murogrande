@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mauro Mendizábal or @murogrande
 - 👀 I’m interested in quantum computing, quantum algorithms and quantum control theory.
 - 🌱 I’m currently learning Tensor Networks
-- 💞️ I’m looking to collaborate on quantum algorithms projects that are solving real life problems
+- 💞️ I’m looking to collaborate on quantum emulators
 - 📫 You can reach me at mjmendizabal@uc.cl
 
 <!---
